@@ -1,37 +1,47 @@
-# 🚗 Car Price Predictor
+# 🚗 Car Price Prediction Web App
 
-A Machine Learning web app that predicts used car prices based on user inputs.
+This project predicts the price of a car using Machine Learning and provides an interactive web interface using Streamlit.
 
-## 🔥 Features
+## 🔗 Live Demo
 
-* Predicts car price using Linear Regression
-* Cleaned dataset
-* Simple UI
+https://your-app-name.streamlit.app
 
-## 🛠 Tech Stack
+## 📌 Features
+
+* Predicts car price based on user input
+* Clean and interactive UI
+* Real-time prediction
+
+## 🛠️ Tech Stack
 
 * Python
+* Pandas
+* NumPy
 * Scikit-learn
-* Pandas, NumPy
 * Streamlit
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
-## 📊 Model
+## 📁 Project Structure
 
-* Linear Regression
-* (add your accuracy here)
+* streamlit_app.py → main app
+* model.pkl → trained model
+* requirements.txt → dependencies
 
-## 📊 Model Performance
+## 📊 Model Used
 
-* Algorithm: Linear Regression
-* R² Score: (your score here)
-* Mean Absolute Error: (optional)
+* Linear Regression (can be improved further)
+
+## 📌 Future Improvements
+
+* Better model (Random Forest / XGBoost)
+* Improved UI
+* Deployment on custom domain
 
 
 ## 👨‍💻 Author
