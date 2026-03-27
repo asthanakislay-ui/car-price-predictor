@@ -27,6 +27,13 @@ streamlit run app.py
 * Linear Regression
 * (add your accuracy here)
 
+## 📊 Model Performance
+
+* Algorithm: Linear Regression
+* R² Score: (your score here)
+* Mean Absolute Error: (optional)
+
+
 ## 👨‍💻 Author
 
 Kislay Asthana
