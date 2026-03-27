@@ -4,7 +4,7 @@ This project predicts the price of a car using Machine Learning and provides an 
 
 ## 🔗 Live Demo
 
-https://your-app-name.streamlit.app
+https://car-price-predictor∙main∙car.py.streamlit.app
 
 ## 📌 Features
 
